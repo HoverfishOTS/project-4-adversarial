@@ -18,7 +18,7 @@ Ask your instructor if stuck.
 | Week | Tasks |
 |------|-------|
 | 1 | Learn neural network training, gradients, and backpropagation |
-| 2 | Load pre-trained emotion model and FER-2013 dataset & Literature review (1 or 2 references) |
+| 2 | Load pre-trained emotion model and FER-2013 dataset & Start literature review (1 or 2 references) |
 | 3 | Learn theory behind Adversarial Examples and FGSM |
 | 4 | Write algorithm to generate adversarial noise |
 | 5 | Execute attack on test dataset, record degraded accuracy |
